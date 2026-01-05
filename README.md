@@ -62,3 +62,6 @@ Hasil clustering dapat dimanfaatkan untuk:
 ## 👤 Author
 Muhammad Rarendra Satiya 
 Muhammad Fariz Abid Ramadhana
+
+## 📊 Visualisasi Tableau
+- [Dashboard Clustering Kecamatan](https://public.tableau.com/views/NamaDashboard/NamaSheet)
