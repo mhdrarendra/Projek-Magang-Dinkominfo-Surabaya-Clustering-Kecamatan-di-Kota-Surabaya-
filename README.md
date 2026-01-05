@@ -65,6 +65,7 @@ Muhammad Fariz Abid Ramadhana
 
 ---
 ## 📊 Visualisasi Tableau
-- [Dashboard Clustering Kecamatan](https://public.tableau.com/views/DashboardAnalisisdanKlasterisasiIndeksSosial-EkonomiKecamatandiKotaSurabaya/Dashboard15?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Dashboard Analisis dan Klasterisasi Indeks Sosial-Ekonomi Kecamatan di Kota Surabaya](https://public.tableau.com/views/DashboardAnalisisdanKlasterisasiIndeksSosial-EkonomiKecamatandiKotaSurabaya/Dashboard15?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
