@@ -32,9 +32,9 @@ Kecamatan | Variabel_1 | Variabel_2 | Variabel_3 | ...
 2. Memisahkan kolom Kecamatan
 3. Menyeleksi kolom numerik
 4. Melakukan normalisasi Min-Max
-5. Menentukan jumlah cluster dengan Elbow 6. Method
-7. Melakukan clustering menggunakan K-Means
-8. Visualisasi hasil clustering dengan PCA
+5. Menentukan jumlah cluster dengan Elbow Method
+6. Melakukan clustering menggunakan K-Means
+7. Visualisasi hasil clustering dengan PCA
 ---
 
 ## 📐 Normalisasi Data
@@ -66,6 +66,7 @@ Hasil clustering dapat dimanfaatkan untuk:
 ---
 ## 📊 Visualisasi Tableau
 - [Dashboard Analisis dan Klasterisasi Indeks Sosial-Ekonomi Kecamatan di Kota Surabaya](https://public.tableau.com/views/DashboardAnalisisdanKlasterisasiIndeksSosial-EkonomiKecamatandiKotaSurabaya/Dashboard15?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
