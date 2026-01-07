@@ -60,12 +60,13 @@ Hasil clustering dapat dimanfaatkan untuk:
 ---
 
 ## 👤 Author
-Muhammad Rarendra Satiya 
-Muhammad Fariz Abid Ramadhana
+- Muhammad Rarendra Satiya 
+- Muhammad Fariz Abid Ramadhana
 
 ---
 ## 📊 Visualisasi Tableau
 - [Dashboard Analisis dan Klasterisasi Indeks Sosial-Ekonomi Kecamatan di Kota Surabaya](https://public.tableau.com/views/DashboardAnalisisdanKlasterisasiIndeksSosial-EkonomiKecamatandiKotaSurabaya/Dashboard15?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
